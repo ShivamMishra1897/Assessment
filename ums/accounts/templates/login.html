@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}Login{% endblock %}
+
+<form action="{% url 'login' %}" method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Login">
+</form>
+<p>Not yet registered!</p>
+<a href="{% url 'manager-signup' %}">Signup as Manager</a><br>
+<a href="{% url 'executive-signup' %}">Signup as Executive </a>

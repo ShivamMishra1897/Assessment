@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Manager Home{% endblock %}
+
+{% block content %}
+    <ul>
+    {% for cl in clients %}
+        <li>{{ cl.client}}</li>
+        <a href="{% url 'manager-client-detail' cl.id %}">info</a>
+    {% endfor %}
+    </ul>
+{% endblock %}

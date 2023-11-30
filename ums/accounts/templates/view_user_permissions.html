@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<p>{{ user.username }}</p>
+
+{% for perms in permissions %}
+    <li>
+        {{ perms.permission }}
+    </li>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+   
+{% block content %}
+<div>
+    <p>{{ client.client }}</p>
+    {% if commented %}
+        <p>{{ comment.comment }}</p>
+    {% else %}
+        <a href="{% url 'create-comment' client.id %}">comment</a>
+        <button>comment</button>
+    {% endif %}
+</div>
+{% endblock %}
