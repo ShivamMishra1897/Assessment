@@ -5,3 +5,5 @@ https://medium.com/@alexey.inkin/advice-to-my-younger-self-and-you-after-20-year
 https://dev.to/michaellarocca/kickstart-your-coding-journey-a-guide-to-free-web-development-resources-428b
 
 https://dev.to/prakhar-singh/how-to-study-effectively-the-scientific-way-1eo5
+
+https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7
