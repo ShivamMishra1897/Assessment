@@ -7,3 +7,5 @@ https://dev.to/michaellarocca/kickstart-your-coding-journey-a-guide-to-free-web-
 https://dev.to/prakhar-singh/how-to-study-effectively-the-scientific-way-1eo5
 
 https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7
+
+https://eztv-official.site/
