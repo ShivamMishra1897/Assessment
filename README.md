@@ -8,6 +8,8 @@ https://dev.to/prakhar-singh/how-to-study-effectively-the-scientific-way-1eo5
 
 https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7
 
+https://dev.to/devshefali/18-must-bookmark-github-repositories-every-developer-should-know-54ll
+
 https://eztv-official.site/
 [django_project_topic=dpt]
 dpt-https://github.com/JayP2006/python-djangoproject-bloodbank
