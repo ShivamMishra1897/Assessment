@@ -15,3 +15,5 @@ https://dev.to/koladev/fullstack-nextjs-django-authentication-django-rest-typesc
 https://eztv-official.site/
 [django_project_topic=dpt]
 dpt-https://github.com/JayP2006/python-djangoproject-bloodbank
+
+https://github.com/krishnaik06/Data-Science-Projects-For-Resumes
