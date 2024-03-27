@@ -20,4 +20,5 @@ https://github.com/krishnaik06/Data-Science-Projects-For-Resumes
 
 https://dev.to/codewithshahan/how-to-make-a-turtle-racing-game-in-python-3nfn
 
-[SONG LINK] from suno.ai-https://app.suno.ai/song/6f033e39-2b07-45ba-9637-21139155282f/
+[SONG LINK] from suno.ai-[https://app.suno.ai/song/6f033e39-2b07-45ba-9637-21139155282f/],
+                          [https://app.suno.ai/song/5a285fbc-f64a-418a-8b2e-05e3e7990899/]
